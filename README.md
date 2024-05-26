@@ -1,88 +1,18 @@
-━━━━━━━━━━━━━━━━━━━━
+<h1 align="center">Hi 👋, I'm KILLEROP12</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h2 align="center">
-    ──「 ᴋɪʟʟᴇʀ ✘ ᴍᴜsɪᴄ 」──
-</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=killerop12&label=Profile%20views&color=0e75b6&style=flat" alt="killerop12" /> </p>
 
-<p align="center">
-  <img src="https://graph.org/file/c984e64b962e2eb92acd3.jpg">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/killerop12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="killerop12" height="30" width="40" /></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<a href="https://github.com/killerop12/killerMusic/stargazers"><img src="https://img.shields.io/github/stars/killerop12/killerMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/killerop12/killerMusic/network/members"> <img src="https://img.shields.io/github/forks/killerop12/killerMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/killerop12/killerMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/killerop12/killerMusic/commits/killerop12"> <img src="https://img.shields.io/github/last-commit/killerop12/killerMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=killerop12&show_icons=true&locale=en&layout=compact" alt="killerop12" /></p>
 
-━━━━━━━━━━━━━━━━━━━━
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killerop12&show_icons=true&locale=en" alt="killerop12" /></p>
 
-<p align="center">
-  <img src="https://graph.org/file/bf191b068f587d5ef6c34.jpg">
-</p>
-
-<p align="center">
-<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
-</p>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/killerop12/killerMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-<details>
-<summary><h3>
-- <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
-</h3></summary>
-
-- Get your [Necessary Variables](https://github.com/killerop12/killerMusic/blob/master/sample.env)
-- Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
-- Install required packages by :
-`sudo apt-get install python3-pip ffmpeg -y`
-- Install pip by :
-`sudo pip3 install -U pip`
-- Install node by :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
-- Clone the repository by :
-`git clone https://github.com/killerop12/killerMusic && cd killerMusic`
-- Install requirements by :
-`pip3 install -U -r requirements.txt`
-- Fill your variables in the env by :
-`vi sample.env`<br>
-Press `I` on the keyboard for editing env<br>
-Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
-- Rename the env file by :
-`mv sample.env .env`
-- Install tmux to keep running your bot when you close the terminal by :
-`sudo apt install tmux && tmux`
-- Finally run the bot by :
-`bash fallen`
-- For getting out from tmux session<br>
-Press `Ctrl+b` and then `d`
-
-<p align="center">
-  <img src="https://graph.org/file/9d9d77d407eaad08d7ed0.jpg">
-</p>
-
-</details>
-
-━━━━━━━━━━━━━━━━━━━━
-
-━━━━━━━━━━━━━━━━━━━━
-
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-- <b>[ᴋɪʟʟᴇʀ](https://github.com/killerop12)  ғᴏʀ  [ᴋɪʟʟᴇʀ ᴍᴜsɪᴄ](https://github.com/killerop12/killerMusic) </b>
-  
-
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/killerop12/killerMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴋɪʟʟᴇʀ ✘ ᴍᴜsɪᴄ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
-
-━━━━━━━━━━━━━━━━━━━━
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killerop12&" alt="killerop12" /></p>
