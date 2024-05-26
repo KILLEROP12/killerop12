@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KILLEROP12</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![image](https://github.com/KILLEROP12/killerop12/assets/141471562/b3758862-29d3-47d0-998b-def10c3469f0.gif)
+![gif](https://github.com/KILLEROP12/killerop12/assets/141471562/b3758862-29d3-47d0-998b-def10c3469f0.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killerop12&label=Profile%20views&color=0e75b6&style=flat" alt="killerop12" /> </p>
@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killerop12&show_icons=true&locale=en" alt="killerop12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killerop12&" alt="killerop12" /></p>
-![image](https://github.com/KILLEROP12/killerop12/assets/141471562/f9f0b775-2218-4019-ab49-54a1f2a736f1)
