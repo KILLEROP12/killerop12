@@ -4,7 +4,7 @@
 ![gif](https://github.com/KILLEROP12/killerop12/assets/141471562/b3758862-29d3-47d0-998b-def10c3469f0.gif)
 
 
-https://camo.githubusercontent.com/f81d25a5e581108656ca86defc43da4c2d58c71bc79e09443d839290cb009521/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73616d6d6f726f7a6f76267374796c653d666f722d7468652d626164676526636f6c6f723d6f72616e6765
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=killerop12&label=Profile%20views&color=0e75b6&style=flat" alt="killerop12" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
