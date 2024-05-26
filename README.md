@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm KILLEROP12</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right"alt="coding"width="400"src=![image](https://github.com/KILLEROP12/killerop12/assets/141471562/aa568d0a-0c10-419d-9e4f-5ffa6f5b23cd)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killerop12&label=Profile%20views&color=0e75b6&style=flat" alt="killerop12" /> </p>
 
